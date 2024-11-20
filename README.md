@@ -1,4 +1,4 @@
-# Amazon_Sales_Dashboard_Excel
+# Excel_Project_Amazon_Sales_Dashboard
 A comprehensive Excel dashboard analyzing Amazon sales data, showcasing key metrics such as sales, profit, orders, and profit margins with detailed insights on categories, regions, and trends.
 
 ## 🌟Situation
